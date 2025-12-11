@@ -18,11 +18,9 @@ Feed the app a flower’s traits, and it reveals the floral type hidden beneath 
 
 │── notebooks/ 
 
-│── app.py              
+│── app.py      
 
-│── model_training.py    
-
-│── requirements.txt 
+│── model.pkl
 
 │── README.md  
 
